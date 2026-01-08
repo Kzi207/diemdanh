@@ -1,0 +1,7 @@
+{
+  "name": "Kzi - Điểm danh Sinh viên",
+  "description": "Ứng dụng quản lý điểm danh sinh viên bằng mã QR, hỗ trợ nhập liệu Excel và báo cáo thống kê.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
